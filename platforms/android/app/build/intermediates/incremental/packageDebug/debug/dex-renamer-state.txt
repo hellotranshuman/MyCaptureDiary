@@ -1,0 +1,4 @@
+#Wed Sep 05 00:05:06 KST 2018
+base.0=C\:\\hellotranshuman_project\\MyCaptureDiary_ver2\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\hellotranshuman_project\\MyCaptureDiary_ver2\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
